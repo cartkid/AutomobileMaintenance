@@ -1,0 +1,5 @@
+C:\VS\AutomobileMaintenance\AutomobileMaintenance.API\AutomobileMaintenance.API\bin\Debug\AutomobileMaintenance.API.dll
+C:\VS\AutomobileMaintenance\AutomobileMaintenance.API\AutomobileMaintenance.API\bin\Debug\AutomobileMaintenance.API.pdb
+C:\VS\AutomobileMaintenance\AutomobileMaintenance.API\AutomobileMaintenance.API\obj\Debug\AutomobileMaintenance.API.csprojResolveAssemblyReference.cache
+C:\VS\AutomobileMaintenance\AutomobileMaintenance.API\AutomobileMaintenance.API\obj\Debug\AutomobileMaintenance.API.dll
+C:\VS\AutomobileMaintenance\AutomobileMaintenance.API\AutomobileMaintenance.API\obj\Debug\AutomobileMaintenance.API.pdb

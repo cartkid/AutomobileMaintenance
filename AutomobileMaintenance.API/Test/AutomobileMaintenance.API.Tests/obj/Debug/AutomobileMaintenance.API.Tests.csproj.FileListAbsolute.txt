@@ -1,0 +1,8 @@
+C:\VS\AutomobileMaintenance\AutomobileMaintenance.API\Test\AutomobileMaintenance.API.Tests\bin\Debug\AutomobileMaintenance.API.Tests.dll
+C:\VS\AutomobileMaintenance\AutomobileMaintenance.API\Test\AutomobileMaintenance.API.Tests\bin\Debug\AutomobileMaintenance.API.Tests.pdb
+C:\VS\AutomobileMaintenance\AutomobileMaintenance.API\Test\AutomobileMaintenance.API.Tests\bin\Debug\AutomobileMaintenance.API.dll
+C:\VS\AutomobileMaintenance\AutomobileMaintenance.API\Test\AutomobileMaintenance.API.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\VS\AutomobileMaintenance\AutomobileMaintenance.API\Test\AutomobileMaintenance.API.Tests\bin\Debug\AutomobileMaintenance.API.pdb
+C:\VS\AutomobileMaintenance\AutomobileMaintenance.API\Test\AutomobileMaintenance.API.Tests\obj\Debug\AutomobileMaintenance.API.Tests.csprojResolveAssemblyReference.cache
+C:\VS\AutomobileMaintenance\AutomobileMaintenance.API\Test\AutomobileMaintenance.API.Tests\obj\Debug\AutomobileMaintenance.API.Tests.dll
+C:\VS\AutomobileMaintenance\AutomobileMaintenance.API\Test\AutomobileMaintenance.API.Tests\obj\Debug\AutomobileMaintenance.API.Tests.pdb
